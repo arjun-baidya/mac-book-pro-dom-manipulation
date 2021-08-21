@@ -1,0 +1,32 @@
+
+
+.total-line{
+    background-color: black;
+    color: black;
+    height: 2px;
+}
+.promo{
+    padding-bottom: 50px;
+}
+
+.input-box{
+    border: 1px solid black;
+    height: 35px;
+    padding-left: 10px;
+}
+
+.apply-button{
+    background-color: blue;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+}
+
+.end-line{
+    height: 2px;
+    color: black;
+    background-color: black;
+}
